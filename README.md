@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<h3 align="center">My name is Nikola Lukov - Aspiring Software engeneer</h3>
+<h3 align="left">My name is Nikola Lukov - Aspiring Software engeneer</h3>
 
 - 🌱 I’m currently learning **Node JS, Express, Angular**
 

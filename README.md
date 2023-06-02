@@ -4,20 +4,31 @@ My name is Nikola Lukov - Aspiring Software engeneer!
 
 I live in Sofia, Bulgaria currently studying Web development in Software University.
 
-- 🌱 I’m currently learning **Node JS, Express, Angular**
+## 📚 Education
+🎓School
+| Type | Status | School |
+| ---- | ------ | ------------------ |
+| Elementary | Finished | First Private Mathematic High School |
+| Middle | Currenly 10th Grade | National Gymnasium of Natural Sciences and Mathematics |
+| High | Not Started Yet | |
 
-- 📫 How to reach me **nikola.lukov.2006@gmail.com**
+📜Certificates
+* [Software University - JS Basics](https://softuni.bg/certificates/details/137475/b5c9fb02)
+* [Software University - JS Fundamentals](https://softuni.bg/certificates/details/149542/87ab8343)
+* [Software University - JS Advanced](https://softuni.bg/certificates/details/160218/00c18b54)
+* [Software University - JS Applications](https://softuni.bg/certificates/details/167839/e5e8743c)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/nikolaluk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikolaluk" height="30" width="40" /></a>
-</p>
+📖Software University Repos
+* [CubicleWithJSON](https://github.com/nikolaluk/Cubicle)
+* [CubicleWithMongoDB](https://github.com/nikolaluk/CubicleDB)
+* [CatShelter](https://github.com/nikolaluk/CatShelter)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+👨‍💻Languages & Frameworks
 
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaluk&show_icons=true&locale=en&layout=compact" alt="nikolaluk" /></p></div>
+![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=red&style=for-the-badge&logo=JavaScript)
+![](https://img.shields.io/static/v1?label=Code&message=HTML&color=red&style=for-the-badge&logo=HTML)
+![](https://img.shields.io/static/v1?label=Code&message=CSS&color=red&style=for-the-badge&logo=CSS)
 
-<div><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikolaluk&show_icons=true&locale=en" alt="nikolaluk" /></p></div>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaluk&" alt="nikolaluk" /></p>
+![](https://img.shields.io/static/v1?label=Code&message=Express&color=purple&style=for-the-badge&logo=Express)
+![](https://img.shields.io/static/v1?label=Code&message=NodeJS&color=purple&style=for-the-badge&logo=NodeJS)
+![](https://img.shields.io/static/v1?label=Code&message=Angular&color=purple&style=for-the-badge&logo=Angular)

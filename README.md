@@ -1,6 +1,8 @@
 # Hi there 👋
 
-<h3 align="left">My name is Nikola Lukov - Aspiring Software engeneer</h3>
+My name is Nikola Lukov - Aspiring Software engeneer!
+
+I live in Sofia, Bulgaria currently studying Web development in Software University.
 
 - 🌱 I’m currently learning **Node JS, Express, Angular**
 

@@ -19,9 +19,10 @@ I live in Sofia, Bulgaria currently studying Web development in Software Univers
 * [Software University - JS Applications](https://softuni.bg/certificates/details/167839/e5e8743c)
 
 📖Software University Repos
-* [CubicleWithJSON](https://github.com/nikolaluk/Cubicle)
+* [Cubicle](https://github.com/nikolaluk/Cubicle)
 * [CubicleWithMongoDB](https://github.com/nikolaluk/CubicleDB)
 * [CatShelter](https://github.com/nikolaluk/CatShelter)
+* [CatShelterWithMongoDB](https://github.com/nikolaluk/CatShelterDB)
 
 👨‍💻Languages & Frameworks
 

@@ -29,6 +29,7 @@ I live in Sofia, Bulgaria currently studying Web development in Software Univers
 ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=red&style=for-the-badge&logo=JavaScript)
 ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=red&style=for-the-badge&logo=HTML)
 ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=red&style=for-the-badge&logo=CSS)
+![](https://img.shields.io/static/v1?label=Code&message=TS&color=red&style=for-the-badge&logo=TS)
 
 ![](https://img.shields.io/static/v1?label=Code&message=Express&color=purple&style=for-the-badge&logo=Express)
 ![](https://img.shields.io/static/v1?label=Code&message=NodeJS&color=purple&style=for-the-badge&logo=NodeJS)
